@@ -1,4 +1,4 @@
-public class find_first_last_position {
+public class search_first_last_position {
 
     public static void main(String[] args) {
         int nums[] = {5,7,7,8,8,10};
